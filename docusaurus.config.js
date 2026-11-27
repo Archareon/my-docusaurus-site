@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://Archareon.github.com',
+  url: 'https://Archareon.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/my-docusaurus-site/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Archareon', // Usually your GitHub org/user name.
-  projectName: 'my-docusaurus-site', // Usually your repo name.
+  projectName: 'Archareon.github.io', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
