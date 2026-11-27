@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://Archareon.github.io',
+  url: 'https://github.io',
   baseUrl: '/',
 
   // GitHub pages deployment config.
