@@ -21,7 +21,7 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://github.io',
-  baseUrl: '/',
+  baseUrl: '/my-docusaurus-site',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
